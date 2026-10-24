@@ -91,6 +91,7 @@ Throwaway addresses for sign-ups and testing.
 - [temp-mail](https://github.com/vwh/temp-mail) - A Worker that acts as a temporary inbox. `MIT`
 - [Tempik](https://github.com/hirotomasato/tempik) - Disposable email service running entirely on Workers. `MIT`
 - [SpinupMail](https://github.com/ridvan/spinupmail) - Unlimited temporary addresses with attachments. `MIT`
+- [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) - Temporary mail service built on Nuxt and Cloudflare, with i18n. `MIT`
 
 ## Notifications and forwarding
 
