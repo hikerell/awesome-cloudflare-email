@@ -124,3 +124,5 @@ Throwaway addresses for sign-ups and testing.
 ## Contributing
 
 Know a project that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md). Projects should run on or be built for Cloudflare Email Routing or Email Sending and have been updated in the last twelve months.
+
+Maintained by [@hikerell](https://github.com/hikerell), who also builds MarkRelay (listed above).
