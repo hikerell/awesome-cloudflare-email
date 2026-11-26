@@ -92,6 +92,7 @@ Throwaway addresses for sign-ups and testing.
 - [Tempik](https://github.com/hirotomasato/tempik) - Disposable email service running entirely on Workers. `MIT`
 - [SpinupMail](https://github.com/ridvan/spinupmail) - Unlimited temporary addresses with attachments. `MIT`
 - [FreeTempMail](https://github.com/PennyJoly/FreeTempMail) - Temporary mail service built on Nuxt and Cloudflare, with i18n. `MIT`
+- [MailGate](https://github.com/Dicka18/mailgate) - Receive-only OTP and magic-link inbox on Workers, D1, Email Routing and Cron, with strict allowlist rejection, sandboxed HTML preview, RFC822 simulator, zero-dependency Playwright/E2E SDK (waitForOtp()), and an optional HMAC-signed webhook bridge. MIT
 
 ## Notifications and forwarding
 
